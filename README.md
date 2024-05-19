@@ -1,8 +1,6 @@
 # Hi there 👋 I'm Chandrashekhar Paliwal (CP)
 
 
-![Profile Banner](https://media.licdn.com/dms/image/C5603AQHyBVkpl5ZzkA/profile-displayphoto-shrink_400_400/0/1588073627238?e=1721865600&amp;v=beta&amp;t=qLOkMlFwv_Lo8N54n_vD9S2aoYl0vshWwIX7-3s4_0I)
-
 I'm a passionate full stack software developer with experience in .NET Core, Azure Cloud, and front-end technologies like Angular, Vue 3, and TypeScript. I love building scalable and efficient applications, and I'm always excited to learn new technologies and improve my skills.
 
 ## 🔧 Technologies & Tools
